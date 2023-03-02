@@ -1,0 +1,3 @@
+                    <StackPanel.Background>
+                        <ImageBrush ImageSource="/Images/color.png" Opacity="0.7"  Stretch="Fill"></ImageBrush>
+                    </StackPanel.Background>
